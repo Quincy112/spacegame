@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/patriciaquinteros/Desktop/MSSA /FIRST SEMESTER/PROJECTS/SPACE INVADER/SPACEINVADER/Designs/Designs.csproj": {}
+  },
+  "projects": {
+    "/Users/patriciaquinteros/Desktop/MSSA /FIRST SEMESTER/PROJECTS/SPACE INVADER/SPACEINVADER/Designs/Designs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/patriciaquinteros/Desktop/MSSA /FIRST SEMESTER/PROJECTS/SPACE INVADER/SPACEINVADER/Designs/Designs.csproj",
+        "projectName": "Designs",
+        "projectPath": "/Users/patriciaquinteros/Desktop/MSSA /FIRST SEMESTER/PROJECTS/SPACE INVADER/SPACEINVADER/Designs/Designs.csproj",
+        "packagesPath": "/Users/patriciaquinteros/.nuget/packages/",
+        "outputPath": "/Users/patriciaquinteros/Desktop/MSSA /FIRST SEMESTER/PROJECTS/SPACE INVADER/SPACEINVADER/Designs/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/patriciaquinteros/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
